@@ -1,30 +1,34 @@
 # Guess Number
 
-Guess the number according to the hints provided on the screen.
+A completed number guessing game where the player tries to find the correct number using on-screen hints.
 
-
-## Demo
-
+## 🌐 Demo
 https://nursaadet.github.io/Guess-Number/
 
+## 🎥 Example Outcome
 
-## Example Outcome
+### Desktop View
+<img src="./computerGame.gif" alt="Guess Number Desktop Demo" width="600" />
 
-![Guess Number](project.gif)
+### Mobile View
+<img src="./phoneGame.gif" alt="Guess Number Mobile Demo" width="500" />
 
-## Features
+## ✨ Features
+- Prevents entering duplicate numbers
+- Restricts input to numbers between 1–25
+- Blocks text input
+- Displays top-score indicator
+- Uses DOM manipulation
+- Saves data with Local Storage
+- Restart game with “Again” button
+- Visual feedback:
+  - Green for win
+  - Red for lose
 
-- Gamer can not enter duplicate numbers.
-- Gamer can not enter text or a number not between 1-25.
-- Top-score indicator.
-- DOM Manipulations.
-- Local Storage.
-- Again button for new game.
-- Red color for the lose and green color for the win.
-
-
-## Tech Stack
-
-**Client:** HTML, CSS,JavaScript,Local-Storage
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Local Storage
 
 

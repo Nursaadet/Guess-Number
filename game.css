@@ -91,10 +91,13 @@ main {
   width: 300px;
   display: block;
   margin-bottom: 20px;
+  margin-left: 0.5rem;
   padding: 50px;
 }
 .msg {
   margin-bottom: 150px;
+  margin-left: 1rem ;
+  margin-right: 0rem;
 }
 .score {
   margin-bottom: 40px;
