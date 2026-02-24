@@ -14,7 +14,7 @@ https://nursaadet.github.io/Guess-Number/
 <img src="./phoneGame.gif" alt="Guess Number Mobile Demo" width="500" />
 
 ## ✨ Features
-- Prevents entering duplicate numbers
+
 - Restricts input to numbers between 1–25
 - Blocks text input
 - Displays top-score indicator
